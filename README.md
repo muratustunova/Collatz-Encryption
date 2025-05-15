@@ -36,6 +36,13 @@ This project provides a file-based encryption and decryption tool implemented in
    - Encrypted characters are decoded by reversing the step-based transformation.
 3. The original content is restored and saved to `a.txt`.
 
+## 🛡️ Why This Project?
+
+This project was developed as a contribution to national digital security initiatives.  
+Focusing on cryptography and image-based data encryption, it aims to inspire both the open-source community and professionals working in national intelligence and cybersecurity fields.
+
+> 🇹🇷 I write code dedicated to the digital defense of my country.
+
 ## Usage
 
 1. Compile the program:
